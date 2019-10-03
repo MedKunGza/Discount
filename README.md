@@ -2,7 +2,7 @@
 int main()
 {
 	int price;
-  float discount, True_Price;
+ 	float discount, True_Price;
 	printf("Input Price = ");
 	scanf("%d",&price);
 	printf("Input Discount = ");
